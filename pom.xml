@@ -8,14 +8,6 @@
 		<version>3.1.8</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.exampleforkafka</groupId>
-	<artifactId>kafka</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>kafka</name>
-	<description>Demo project for Spring Boot Kafka Create Topic </description>
-	<properties>
-		<java.version>21</java.version>
-	</properties>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
